@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\CODER2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CODER",
+		"git.ignoreLimitWarning": true
+	}
+}
