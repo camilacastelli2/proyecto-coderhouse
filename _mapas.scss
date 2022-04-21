@@ -1,0 +1,11 @@
+$display: (
+//Clave - Valor
+color: black,
+
+
+);
+header {
+    background-color: map-get($display , color )
+
+
+}
